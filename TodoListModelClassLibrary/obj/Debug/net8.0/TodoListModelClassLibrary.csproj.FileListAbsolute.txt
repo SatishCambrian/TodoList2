@@ -1,0 +1,12 @@
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\bin\Debug\net8.0\TodoListModelClassLibrary.deps.json
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\bin\Debug\net8.0\TodoListModelClassLibrary.dll
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\bin\Debug\net8.0\TodoListModelClassLibrary.pdb
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.AssemblyInfo.cs
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.sourcelink.json
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.dll
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\refint\TodoListModelClassLibrary.dll
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\TodoListModelClassLibrary.pdb
+C:\Users\satis\Documents\Backend\TodoList2\TodoListModelClassLibrary\obj\Debug\net8.0\ref\TodoListModelClassLibrary.dll
