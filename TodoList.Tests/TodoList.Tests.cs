@@ -1,7 +1,7 @@
 namespace TodoList.Tests;
 
 [TestClass]
-public class UnitTest1
+public class TodoList
 {
     [TestMethod]
     public void TestMethod1()
